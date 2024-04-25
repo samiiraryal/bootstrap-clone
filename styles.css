@@ -1821,6 +1821,24 @@ progress::-webkit-progress-value {
     padding-left: 30px;
 }
 
+ textarea {
+  width: 100%;
+  min-height: 100px; 
+  resize: vertical; 
+}
+
+input[type="text"], input[type="email"], input[type="number"] {
+  width: 100%;
+  min-height: 20px;
+}
+
+@media (max-width: 576px) {
+  textarea, input {
+    width: 50%; 
+     max-width: 50%; 
+  }
+}
+
 
 .compulsory {
   font-family: 'Jost';
