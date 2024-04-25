@@ -1,0 +1,309 @@
+/* .anatomyTabs {
+  padding-top: 80px;
+  position: relative;
+}
+
+
+.latestHeader {
+  font-size: 29px;
+  font-family: "Jost", sans-serif;
+  font-weight: 600;
+}
+
+.latest-case-studies {
+  position: absolute;
+  top: 10px;
+}
+
+.anatomy-tabs {
+  margin: 0 0 0 60%;
+  position: absolute;
+  top: 20px;
+  right: 110px;
+}
+
+.tabsBtn-active {
+  color: black !important;
+  background-color: yellow !important;
+  margin: 0 15px;
+}
+
+.tabsBtn {
+  color: black !important;
+  border: 1px solid gray;
+  /* width: 100px;
+  height: 30px; */
+  /* background-color: yellow !important;
+  margin: 0 15px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.tabsBtn::after {
+  background-color: yellow;
+}
+
+.tabsBtn:hover {
+  color: black !important;
+  background-color: yellow !important;
+  margin: 0 15px;
+}
+
+.case-img-div {
+  height: 250px;
+}
+
+.case-img-div:hover {
+  opacity: 0.35;
+  transition: 0.25s;
+}
+
+.case-img-div:hover .hover-text {
+  display: block;
+}
+
+.case-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.case-img-list {
+  margin-top: 60px;
+}
+
+.case-img-list-row {
+  margin: 20px 0;
+}
+
+.hover-text {
+  display: none;
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 30px;
+}
+
+.hover-text:hover {
+  display: block;
+}
+
+
+.each-client{
+  border: 1px solid gray;
+  margin: 0 10px;
+}
+
+.nameoftheclient {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  padding: 10px;
+}
+
+.imageofclient {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.imageofclient1 {
+  width: 100%;
+  border-radius: 50%;
+} */
+
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main_wrapper{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.Content_box{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  justify-content: center;
+  gap: 20px;
+  box-shadow: 1px 1px 1px 1px #77776c2a;
+  font-family: sans-serif;
+  border-radius: 9px;
+}
+
+.imagesection{
+  height: 50px;
+  width: 50px;
+  display: flex;
+  gap: 20px;
+}
+.imagesection h1,p {
+  font-size: 14px;
+}
+.imagesection span{
+  height: 20px;
+} 
+.imagesection img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.author_box{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  height: 20px;
+  justify-content: space-between;
+  padding: 0 30px 0 10px;
+} */
+
+
+
+
+
+/* html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} */
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main_wrapper{
+  height: 52vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.Content_box{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  justify-content: center;
+  gap: 20px;
+  box-shadow: 1px 1px 1px 1px #77776c2a;
+  font-family: sans-serif;
+  border-radius: 9px;
+}
+
+.imagesection{
+  height: 50px;
+  width: 50px;
+  display: flex;
+  gap: 20px;
+}
+.imagesection h1,p {
+  font-size: 14px;
+}
+.imagesection span{
+  height: 20px;
+} 
+.imagesection img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.author_box{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  height: 20px;
+  justify-content: space-between;
+  padding: 0 30px 0 10px;
+}
+
+html,
+    body {
+      position: relative;
+      height: 100%;
+    }
+
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+
+    .swiper {
+      width: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
