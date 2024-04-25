@@ -217,6 +217,10 @@ a {
   position: relative;
 }
 
+.expParent {
+  position: relative;
+}
+
 .smallBox {
   display: inline-block;
   width: 8px;
